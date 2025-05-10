@@ -1,0 +1,1 @@
+#Rozet ve istatistik hesaplamaları, gönüllüye özel özet.
